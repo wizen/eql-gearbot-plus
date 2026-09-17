@@ -1,4 +1,4 @@
-# EQL Mercenary Suite
+# EQL Gearbot Plus
 
 A Discord bot and companion website for managing a guild's spare gear bank and crafting/gathering work orders in EverQuest Legends. One process runs the bot, the web API, and (optionally) serves the built website, all sharing one SQLite database.
 
