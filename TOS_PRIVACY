@@ -1,0 +1,39 @@
+**Terms of Service**
+
+**1. Acceptance of Terms**
+By using or deploying this bot ("the Software"), you agree to these Terms of Service. If you do not agree, do not use or host the Software.
+
+**2. License & Open Source**
+The Software is released under the **GNU General Public License (GPL) v3.0** (or later).
+
+* You are free to run, study, modify, and redistribute the Software in accordance with the terms of the GNU GPL.
+* **No Warranty:** The Software is provided "AS IS", WITHOUT WARRANTY OF ANY KIND, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. See the GNU General Public License for full details.
+
+**3. Acceptable Use**
+
+* You agree not to use or host the Software for illegal purposes or in a manner that violates the rules of the platform where it is deployed.
+* You may not attempt to abuse, spam, or disrupt host platform services using this Software.
+
+**4. Limitation of Liability**
+In no event unless required by applicable law or agreed to in writing will any copyright holder, or any other party who modifies and/or conveys the program as permitted above, be liable to you for damages, including any general, special, incidental, or consequential damages arising out of the use or inability to use the Software.
+
+---
+
+**Privacy Policy**
+
+**1. Information Collected**
+To function properly, the bot processes and stores the following information locally on the machine or server where it is hosted:
+
+* **User Identifiers:** Your platform account username and unique User ID.
+* **User Data:** Data and items explicitly submitted or added to the bot's records by you through interaction commands.
+
+**2. Local Processing & Creator Access**
+
+* **Local Storage:** All data processed by the bot is stored locally within the host environment running the software.
+* **No Telemetry or Tracking:** The creators/developers of the bot do not collect, transmit, or have access to any data, logs, or usage metrics regarding who downloads or runs the bot, or how it is used.
+* **Platform Metrics:** The only data available to the developers consists of standard, non-identifying GitHub repository interactions (e.g., forks, stars, or clones managed directly by GitHub).
+
+**3. Data Retention & Control**
+
+* Collected data is retained locally on the host server for as long as necessary to maintain records within the bot.
+* Users can request the deletion of their stored data through the bot's designated cleanup/reset commands, or by contacting the individual/entity hosting the specific bot instance.
