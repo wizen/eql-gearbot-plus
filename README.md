@@ -39,7 +39,3 @@ Open `!fill_me_out_first.ini` at the repo root and fill it in - every environmen
 - **`SESSION_SECRET`** - a random string signing website login sessions. Generate one with `node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"`.
 
 See `eql-gearbot-plus-source/eql-merc-suite/README.md` for the full command/API reference and deployment details.
-
-## License
-
-See `eql-gearbot-plus-source/eql-merc-suite/LICENSE`.
