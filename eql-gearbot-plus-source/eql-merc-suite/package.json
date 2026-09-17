@@ -1,0 +1,26 @@
+{
+  "name": "eq-gear-bot",
+  "version": "2.1.1",
+  "description": "EverQuest Legends guild gear inventory, work orders, and Apprentice integration — Discord bot + web API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^131.0.1",
+    "axios": "^1.7.0",
+    "better-sqlite3": "^11.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "discord.js": "^14.15.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "puppeteer": "^25.10.0",
+    "puppeteer-core": "^25.10.0"
+  },
+  "allowScripts": {
+    "better-sqlite3": true,
+    "puppeteer": true
+  }
+}

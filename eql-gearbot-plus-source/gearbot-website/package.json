@@ -1,0 +1,27 @@
+{
+  "name": "gearbot-website",
+  "private": true,
+  "version": "2.1.1",
+  "type": "module",
+  "description": "Companion website for EQ Legends Gear Bot — gear bank, work orders, inventory import.",
+  "scripts": {
+    "dev": "vite --port=5173",
+    "build": "tsc --noEmit && vite build",
+    "build:remote": "vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^19.0.1",
+    "react-dom": "^19.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "tailwindcss": "^4.1.14",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.3"
+  }
+}
